@@ -1,2 +1,2 @@
 # jis-lecture10-InheritanceAndInterfaces
-also lecture 12
+also lecture 11
